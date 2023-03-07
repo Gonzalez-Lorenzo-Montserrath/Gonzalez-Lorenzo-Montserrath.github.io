@@ -86,32 +86,28 @@ education:
 experiences:
     title: Experiencias
     info:
-      - role: Asesora y promotora del INEA
+      - role: Asesora académica del INEA
         time: 2022-2023
-        company: Ciudad de México
+        company: INEA, Ciudad de México
         details: |
           Estuve dentro del Instituto Nacional para la Educación de los
           Alumnos. Fuí asesora; enseñaba a personas mayores de 15 años,
           fuí asesora de una niña de 17-18 años, y de un adulto mayor de 
-          42 años. También fuí promotora; en jornadas del Instituto Cetis 32, 
+          42 años. Ambos aplicaban para el certificado de secundaria.
+            - Asesora: 4 meses
+           
+      - role: Promotora del INEA
+        time: 2022-2023
+        company: INEA, Ciudad de México
+        details: |
+          También fuí promotora; en jornadas del Instituto Cetis 32, 
           tuve la oportunidad de presentarme a dar una inroducción a lo que 
           es el INEA, como promotora llevaba el registro también de personas 
           interesadas y era encarada de resolver todas sus dudas, aplicar examenes,
           y mantenerme al tanto de la educación que recibía y tratar de que 
           permanezcan dentro del proyecto.
             - Promotora: 5 meses
-            - Asesora académica: 4 meses
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
