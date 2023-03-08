@@ -58,9 +58,9 @@ career-profile:
 education:
     title: Educación
     info:
-      - Secundaria: Felipe Angeles Ramírez.
-        Preparatoria: CETIS 32. "José Vasconcelos"
-        time: 2017 - 2023
+      - degree: Secundaria
+        university: Felipe Angeles Ramírez.
+        time: 2017 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +69,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Preparatoria
+        university: CETIS 32. "José Vasconcelos"
+        time: 2020 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
