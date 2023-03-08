@@ -102,30 +102,18 @@ experiences:
             - Promotora: 5 meses
             
 projects:
-    title: Proyecto
+    title: Objetivo profesional
     intro: >
-      Realicé una base de datos para una papelería, utilizando Access, 
+      Mi objetivo profesional es desarrollar mis habilidades al público 
+      en una empresa de prestigio, enfocarme completamente en la buena
+      organización y facilitar el control de la empresa respecto a todo
+      en lo que sea necesario tener un control.
+      Realicé proyectos  ya, como la creación de base de datos para una 
+      papelería. Tengo experiencia también en el marketing digital. Soy
+      bastante creativa, no me cierro a las pocas posibilidades, se y
+      me gusta improvisar, pero también me gusta llevar un control y una
+      planeación.
       
-    assignments:
-      - title: 1.
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 skills:
