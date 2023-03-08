@@ -39,15 +39,15 @@ sidebar:
           level: Basico
 
     interests:
-      title: Interests
+      title: Intereses
       info:
-        - item: Climbing
+        - item: Música
           link:
 
-        - item: Snowboarding
+        - item: Caminar
           link:
 
-        - item: Cooking
+        - item: Correr
           link:
 
 career-profile:
