@@ -55,6 +55,8 @@ career-profile:
     summary: |
      Soy Auxiliar Técnico en Ofimática especializada en obtener y gestionar
      información de manera digital, mediante el uso de recursos informáticos.
+     Responsable y comprometida con mis proyectos, organizada, puntual,
+     empeño en mi trabajo, y buena calidad.
 education:
     title: Educación
     info:
@@ -105,7 +107,7 @@ projects:
       Realicé una base de datos para una papelería, utilizando Access, 
       
     assignments:
-      - title: Velocity
+      - title: 1.
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
